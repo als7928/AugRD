@@ -1,4 +1,4 @@
-# Local-Global Blending Graph Neural ODE Network for Graph Classification
+# Adaptive Fusion of Global-to-Local Patterns for Graph Representation Learning
 
 ## Setup
 ```
