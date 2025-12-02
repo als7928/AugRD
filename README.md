@@ -1,4 +1,4 @@
-# Adaptive Fusion of Global-to-Local Patterns for Graph Representation Learning
+# Reaction–Diffusion-based Global–Local Graph Fusion Network for Graph Mining
 
 ## Setup
 ```
